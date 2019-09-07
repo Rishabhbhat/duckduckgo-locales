@@ -87,11 +87,11 @@ msgstr ""
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr ""
+msgstr "%sडकडकगो फैलाने में मदद करें!%s"
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo%s."
-msgstr ""
+msgstr "%sडकडकगो फैलाने में मदद करें%s"
 
 msgctxt "frontpage"
 msgid "%sLearn More%s."
@@ -110,7 +110,7 @@ msgstr ""
 
 #. https://duckduckgo.com/params in the end under " Source:"
 msgid "A string to identify the source."
-msgstr "स्त्रोत पहचानने के  लिये रस्सी "
+msgstr "स्त्रोत पहचानने के  लिये शब्द "
 
 msgctxt "settings"
 msgid "ATB Dismiss"
@@ -128,7 +128,7 @@ msgstr "के बारे में"
 #. This is the side bar "About" link
 msgctxt "static_page"
 msgid "About"
-msgstr ""
+msgstr "डकडकगो के बारे में"
 
 #. at least in:
 #. * https://duckduckgo.com/about. Appears in the window title when you open the link
@@ -140,19 +140,19 @@ msgstr ""
 
 #. Ad like 'advertisement'
 msgid "Ad"
-msgstr ""
+msgstr "विज्ञापन "
 
 msgctxt "feedback form"
 msgid "Ad is annoying"
-msgstr ""
+msgstr "विज्ञापन परेशान करता है"
 
 msgctxt "feedback form"
 msgid "Ad is inappropriate"
-msgstr ""
+msgstr "विज्ञापन अनुचित है"
 
 msgctxt "feedback form"
 msgid "Ad is irrelevant"
-msgstr ""
+msgstr "विज्ञापन बेजोड़ है"
 
 msgctxt "feedback form"
 msgid "Ad is malware"
@@ -160,14 +160,14 @@ msgstr ""
 
 msgctxt "feedback form"
 msgid "Ad is suspicious"
-msgstr ""
+msgstr "सन्देहजनक है"
 
 #. From Home page, options to "Add DuckDuckGo" to browser or set as home page.
 msgid "Add DuckDuckGo"
 msgstr "डकडकगो  जोड़ें  "
 
 msgid "Add DuckDuckGo as a search engine"
-msgstr ""
+msgstr "डकडकगो को सर्च इंजन के रूप में जोड़ें"
 
 msgid "Add DuckDuckGo to %s"
 msgstr ""
@@ -190,7 +190,7 @@ msgstr "योगोपकरण"
 
 msgctxt "maps_places"
 msgid "Address"
-msgstr ""
+msgstr "पता"
 
 #. https://duckduckgo.com/params near the top under "Privacy Settings"
 msgid "Address bar:"
@@ -198,7 +198,7 @@ msgstr "पता पट्टी:"
 
 msgctxt "feedback form"
 msgid "Advertisements"
-msgstr ""
+msgstr "विज्ञापन"
 
 #. http://i.imgur.com/ZG0Mz3R.png
 msgctxt "settings"
@@ -221,20 +221,20 @@ msgstr "सब"
 
 msgctxt "image-color"
 msgid "All Colors"
-msgstr ""
+msgstr "सब रंग "
 
 msgctxt "image-layout"
 msgid "All Layouts"
 msgstr ""
 
 msgid "All Places"
-msgstr ""
+msgstr "सब जगह"
 
 msgid "All Regions"
-msgstr ""
+msgstr "सब इलाकें"
 
 msgid "All Results"
-msgstr ""
+msgstr "सब परिणाम "
 
 #. In the top menu under Settings
 msgid "All Settings"
